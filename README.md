@@ -16,4 +16,4 @@ I'm David R. Feinberg, PhD. A psychology professor at McMaster University.
 - 🌱 Ask me about gardening
 - 📫 How to reach me: feinberg@mcmaster.ca or on twitter at: @drfeinberg
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I used to play in a gospel band with Joshua Nelson
+- ⚡ Fun fact: I am a moderator for the Epic Gardening Facebook Group with > 12,000 members.
