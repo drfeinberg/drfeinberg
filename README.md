@@ -1,16 +1,12 @@
-### Hi there 👋
+### David R. Feinberg, PhD
+#### Department of Psychology, Neuroscience, & Behaviour
+#### McMaster University
 
-<!--
-**drfeinberg/drfeinberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating new tools for automated reproducible voice analysis
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on translating acoustic analysis and manipulation algorithms from MatLab code to Python
+- 💬 Ask me about gardening
+- 📫 How to reach me: feinberg@mcmaster.ca
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I used to play in a gospel band with Joshua Nelson
