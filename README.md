@@ -6,7 +6,7 @@ I'm David R. Feinberg, PhD. A psychology professor at McMaster University.
 
 
 - 🔭 I’m currently working on creating new tools for automated reproducible voice analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m always learning more Python
 - 👯 I’m looking to collaborate on translating acoustic analysis and manipulation algorithms from MatLab code to Python
 - 💬 Ask me about gardening
 - 📫 How to reach me: feinberg@mcmaster.ca
