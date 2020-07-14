@@ -1,6 +1,8 @@
-### David R. Feinberg, PhD
-#### Department of Psychology, Neuroscience, & Behaviour
-#### McMaster University
+<p align="center">
+  <samp>
+I'm David R. Feinberg, PhD. A psychology professor at McMaster University.
+  </samp>
+</p>
 
 
 - 🔭 I’m currently working on creating new tools for automated reproducible voice analysis
