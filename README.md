@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-I'm David R. Feinberg, PhD. A Professor of Psychology, Neuroscience, & Behaviour and an Associate Member of the Linguistics Department at McMaster University.
+I'm David R. Feinberg, PhD. A Professor at McMaster University.
   </samp>
 </p>
 
