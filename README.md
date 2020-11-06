@@ -16,4 +16,4 @@ I'm David R. Feinberg, PhD. A Professor at McMaster University.
 - 🌱 Ask me about gardening
 - 📫 How to reach me: feinberg@mcmaster.ca or on twitter at: @drfeinberg
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I am a moderator for the Epic Gardening Facebook Group with > 12,000 members.
+- ⚡ Fun fact: I am a moderator for the Epic Gardening Facebook Group with > 15,000 members.
