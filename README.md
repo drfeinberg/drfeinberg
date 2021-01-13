@@ -14,6 +14,6 @@ I'm David R. Feinberg, PhD. A Professor at McMaster University.
 - 👯 I’m looking to collaborate on translating acoustic analysis and manipulation algorithms from MatLab code to Python
   - This is for the VoiceLab Software: https://github.com/Voice-Lab/VoiceLab
 - 🌱 Ask me about gardening
-- 📫 How to reach me: feinberg@mcmaster.ca or on twitter at: @drfeinberg
+- 📫 How to reach me: feinberg@mcmaster.ca or on twitter at: @davidrfeinberg
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I am a moderator for the Epic Gardening Facebook Group with > 15,000 members.
