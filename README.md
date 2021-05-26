@@ -11,8 +11,7 @@ I'm David R. Feinberg, PhD. A Professor at McMaster University.
   - https://github.com/drfeinberg/PraatScripts
   - https://github.com/drfeinberg/Parselmouth-Guides
 -  :open_book: I’m always learning more Python
-- 👯 I’m looking to collaborate on translating acoustic analysis and manipulation algorithms from MatLab code to Python
-  - This is for the VoiceLab Software: https://github.com/Voice-Lab/VoiceLab
+- 👯 I’m looking to collaborate on interesting projects
 - 🌱 Ask me about gardening
 - 📫 How to reach me: feinberg@mcmaster.ca or on twitter at: @davidrfeinberg
 - 😄 Pronouns: he/his/him
