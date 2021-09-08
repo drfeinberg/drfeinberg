@@ -13,6 +13,6 @@ I'm David R. Feinberg, PhD. A Professor at McMaster University.
 -  :open_book: I’m always learning more Python
 - 👯 I’m looking to collaborate on interesting projects
 - 🌱 Ask me about gardening
-- 📫 How to reach me: feinberg@mcmaster.ca or on twitter at: @davidrfeinberg
+- 📫 How to reach me: feinber@mcmaster.ca or on twitter at: @davidrfeinberg
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I am a moderator for the Epic Gardening Facebook Group with > 15,000 members.
